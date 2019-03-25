@@ -15,7 +15,7 @@ import java.util.Date;
 @Data
 @EqualsAndHashCode(callSuper = false)
 public class AAA {
-    private Integer priceId;
+    private Integer priceId111s;
     private String custType;
     private Double leavePrice;
     private Date projectBegdate;
